@@ -1,1 +1,1 @@
-The Repository contains an in-depth analysis of a marketing campaign in Sql and Python alongwith the creation of dashboard in Power BI
+The Repository contains an in-depth analysis of a marketing campaign in Sql and Python alongwith the creation of dashboard in Power BI. It further intends to apply this to a machine learning pipeline in a clustering unsupervised algorithm to understand customer behaviour.
